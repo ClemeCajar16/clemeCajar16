@@ -38,7 +38,7 @@ Me gusta aprender cosas nuevas, especialmente cuando se trata de programar. Esto
       <br/>GitHub
     </td>
        <td align="center" width="100">
-      <br/>##☁
+      ###☁
       <br/>AWS
     </td>      
     <td align="center" width="100">
