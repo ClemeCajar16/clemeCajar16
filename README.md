@@ -38,7 +38,8 @@ Me gusta aprender cosas nuevas, especialmente cuando se trata de programar. Esto
       <br/>GitHub
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS" />
+      <img src="![image](https://github.com/user-attachments/assets/2488cc9c-4b76-4fd8-91a6-7bc6a1a69859)
+" width="40" height="40" alt="AWS" />
       <br/>AWS
     </td>
     <td align="center" width="100">
