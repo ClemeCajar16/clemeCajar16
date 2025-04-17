@@ -8,12 +8,14 @@ Me gusta aprender cosas nuevas, especialmente cuando se trata de programar. Esto
 
 ### 🔧 Tecnologías que estoy aprendiendo
 
-- 🟨 JavaScript y Node.js  
-- 🧪 MongoDB y Mongoose  
-- 🛠️ Express  
-- 🧠 Inteligencia Artificial (¡en proceso!)  
-- 📦 Git y GitHub  
-- ☁️ AWS  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+
 
 ### 📌 Proyectos
 
