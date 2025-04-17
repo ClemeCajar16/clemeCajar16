@@ -37,9 +37,11 @@ Me gusta aprender cosas nuevas, especialmente cuando se trata de programar. Esto
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
       <br/>GitHub
     </td>
-    <h2>☁<td align="center" width="100></h2>
+       <td align="center" width="100">
+      <img src="" />
+      <br/>☁
       <br/>AWS
-    </td>
+    </td>      
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="IA (con Python)" />
       <br/>IA (Python)
