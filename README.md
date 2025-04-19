@@ -64,6 +64,3 @@ Aquí van mis estadísticas:
 ---
 
 Gracias por pasar por aquí 💙  
-Nos vemos entre líneas de código.
-
-
