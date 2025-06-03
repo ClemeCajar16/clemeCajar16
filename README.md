@@ -1,4 +1,4 @@
-# ¡Hey! 👋 Soy Clemecajar16
+# ¡Hey! 👋
 
 Soy estudiante de **Desarrollo de Aplicaciones y Servicios para la Nube** ☁️, construyendo mi camino en el mundo del código una línea a la vez.
 
