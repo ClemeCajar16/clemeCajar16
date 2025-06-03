@@ -57,10 +57,6 @@ Aún estoy cocinando mi primer proyecto 🍳
 ### 📈 En el camino de crecer como dev...
 
 ¡Cada día aprendo algo nuevo y me acerco un paso más a ser la dev que quiero ser! 🚶‍♀️💻  
-Aquí van mis estadísticas:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clemecajar16&show_icons=true&theme=tokyonight)
-
 ---
 
 Gracias por pasar por aquí 💙  
